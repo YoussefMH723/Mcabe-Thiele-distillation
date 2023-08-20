@@ -9,5 +9,4 @@ Model variables that can be edited:
 5- Reflux ratio
 
 Model limits:
-1- can't use quality of 1 (use 0.9999 instead)
-2- Can't solve if the reflux ratio < minimum reflux ratio
+1- Can't solve if the reflux ratio < minimum reflux ratio
